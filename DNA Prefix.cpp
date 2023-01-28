@@ -1,5 +1,5 @@
 //Light OJ Problem
-
+// Trie Algorithm
 #include<bits/stdc++.h>
 #define nl cout<<endl;
 #define First_IO ios_base::sync_with_stdio(false); cin.tie(NULL);
